@@ -19,7 +19,7 @@ website:
   google-analytics: 
     tracking-id: "G-KBY6B9VX9V"
   navbar:
-    logo: "images/USH0149.png"
+    logo: "images/King's_College_London_logo.svg.png"
     left:
       - href: index.qmd
         text: Home
